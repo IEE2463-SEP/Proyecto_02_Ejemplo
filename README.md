@@ -1,6 +1,7 @@
 # Proyecto_02_Ejemplo
 Este es un ejemplo de un proyecto 02 que puede servir de guía para el desarrollo de sus proyectos. 
 
+El proyecto realiza un snake y comple con los requisitos del informe. Aquí pueden ver el [video]( https://www.youtube.com/watch?v=7_iu1nnjys0&ab_channel=RorroReyes)
 
 La descripción de los archivos es:
 
